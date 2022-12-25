@@ -1,1 +1,1 @@
-# Notes in Namaste React course
+# Theory assignments
