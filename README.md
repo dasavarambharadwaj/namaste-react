@@ -1,2 +1,2 @@
 # namaste-react
-Learning react
+Learning react from Akshay Saini
